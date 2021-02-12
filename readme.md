@@ -39,5 +39,4 @@
 ---
 
 <img align="left" alt="zaidaajani's github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=zaidajani&show_icons=true&hide_border=true" />
-![counter](https://zaidajani2007.m.pipedream.net)
 
