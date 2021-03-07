@@ -1,6 +1,6 @@
 ![header-image](.//header_white_.png)
 
-## Hi there, I am zaid, aka <a href="https://youtube.com/zaidajani">youtuber</a>👋.
+## Hi there, I am zaid, aka <a href="https://youtube.com/zaidajani">Youtuber</a>👋.
 
 ### I am a student, developer, youtuber, and more!!
 
