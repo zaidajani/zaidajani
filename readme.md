@@ -38,7 +38,8 @@
 
 ---
 
-<img align="left" alt="zaidaajani's github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=zaidajani&show_icons=true&hide_border=true" />
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=zaidajani)]
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidajani)]()
 
 
 ![counter](https://engv9lixq2f3rpd.m.pipedream.net)
