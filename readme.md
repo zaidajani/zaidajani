@@ -38,8 +38,12 @@
 
 ---
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=zaidajani)]
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=zaidajani)
+
+<br>
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidajani)]()
 
+<br>
 
 ![counter](https://engv9lixq2f3rpd.m.pipedream.net)
