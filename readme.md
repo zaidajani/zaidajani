@@ -9,6 +9,7 @@
 * 🏫 I have a youtube channel <a href="https://youtube.com/zaidajani">Zaid Ajani</a>👋.
 * 🎈 I have over 94 repos on github
 * 🎉 Fun fact, this readme is made on one of my youtube video ❗
+* 💻 Training the computer
 
 ### Connect with Me
 
